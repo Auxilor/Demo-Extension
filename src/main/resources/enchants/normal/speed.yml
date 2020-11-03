@@ -1,0 +1,20 @@
+name: "Speed"
+description: Gives the player permanent speed.
+enabled: true
+
+obtaining:
+  table: true
+  villager: true
+  loot: true
+  rarity: legendary
+
+general-config:
+  targets:
+    - boots
+  grindstoneable: true
+  conflicts:
+    - streamlining
+  maximum-level: 3
+
+config:
+# No config is available for this enchantment

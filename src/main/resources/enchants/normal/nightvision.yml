@@ -1,0 +1,19 @@
+name: "Night Vision"
+description: Gives the player permanent night vision.
+enabled: true
+
+obtaining:
+  table: true
+  villager: true
+  loot: true
+  rarity: epic
+
+general-config:
+  targets:
+    - helmet
+  grindstoneable: true
+  conflicts: []
+  maximum-level: 1
+
+config:
+# No config is available for this enchantment
